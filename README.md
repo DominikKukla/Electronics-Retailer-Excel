@@ -1,4 +1,4 @@
-# Electronic Retailer Project
+# Electronics Retailer Project
 
 Welcome to my Excel Data Analysis Portfolio project! This repository showcases my proficiency in data analysis using Excel.
 
