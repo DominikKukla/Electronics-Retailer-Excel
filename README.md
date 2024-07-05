@@ -16,3 +16,7 @@ The second page focuses on retail stores throughout the world and includes incom
 
 **Notice:** *The dashboard is meant to be looked at in full-screen mode without a formula bar, sheet tabs, or scroll bars.*
 
+
+
+
+Used datasets are available here: https://mavenanalytics.io/data-playground
